@@ -1,0 +1,10 @@
+/build
+google-services.json
+*.jpg
+*.png
+gradle
+._google-services.json
+.gradle
+.idea
+/androidTest
+/test
